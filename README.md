@@ -8,13 +8,13 @@ This Power BI project analyzes operational data for Serinus Energy, an internati
 ## 📎 Screenshots
 
 ### Dashboard - Home Page
-<img width="1412" height="791" alt="Serinus Energy Home Page" src="screenshots/1.png" />
+<img width="1412" height="791" alt="Serinus Energy Home Page" src="1.png" />
 
 ### Dashboard - Employees Review
-<img width="1412" height="791" alt="Serinus Energy Employees Review" src="screenshots/2.png" />
+<img width="1412" height="791" alt="Serinus Energy Employees Review" src="2.png" />
 
 ### Dashboard - Project Overview
-<img width="1412" height="791" alt="Serinus Energy Project Overview" src="screenshots/3.png" />
+<img width="1412" height="791" alt="Serinus Energy Project Overview" src="3.png" />
 
 ## 📁 Dashboard Features
 
