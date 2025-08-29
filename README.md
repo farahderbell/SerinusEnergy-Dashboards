@@ -68,5 +68,6 @@ This Power BI project analyzes operational data for Serinus Energy, an internati
 4. Review KPIs and charts to identify production drivers and optimization opportunities.
 
 ---
+## 📌 Author
 
-**Note on Screenshots**: Ensure the screenshots (`1.png`, `2.png`, `3.png`) are uploaded to the `screenshots` folder in the repository. Update the `src` paths if the folder structure changes. Replace `[YourGitHubUsername]` with your actual GitHub username and KPI values with actual data from your dashboards.
+Made with ❤️ by [Farah]
