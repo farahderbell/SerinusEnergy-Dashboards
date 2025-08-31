@@ -28,10 +28,10 @@ This Power BI project analyzes operational data for Serinus Energy, an internati
 ## 📈 Key Metrics & Visuals
 
 ### ✅ KPI Cards
-- **Total Production**: [Insert Value, e.g., 358M Barrels]
-- **Active Concessions**: [Insert Value, e.g., 6]
-- **Average Daily Output**: [Insert Value, e.g., 5K Barrels]
-- **Top Producing Field**: [Insert Value, e.g., Sabria]
+- **Total Production**: 
+- **Active Concessions**: 
+- **Average Daily Output**: 
+- **Top Producing Field**: 
 
 ### 📦 Production Breakdown
 - **Production by Concession**: Compares performance across assets like Satu Mare (Romania) and Sabria (Tunisia).
@@ -61,7 +61,7 @@ This Power BI project analyzes operational data for Serinus Energy, an internati
 ## 📌 Usage Instructions
 1. Clone or download this repository:
    ```bash
-   git clone https://github.com/[YourGitHubUsername]/SerinusEnergy-Dashboards.git
+   git clone https://github.com/farahderbell/SerinusEnergy-Dashboards.git
    ```
 2. Open the `.pbix` file in Power BI Desktop.
 3. Use the slicers (date, region, concession, employee, etc.) to explore specific operational segments.
@@ -70,4 +70,4 @@ This Power BI project analyzes operational data for Serinus Energy, an internati
 ---
 ## 📌 Author
 
-Made with ❤️ by [Farah]
+Made with ❤️ by Farah
